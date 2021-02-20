@@ -1,0 +1,25 @@
+body{
+background-color:#EAF6F6;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: green;
+  border-width: 5px;
+width:50%;
+}
+
+h1 ,h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+
+}
+p,form,td,li{
+    text-align: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
